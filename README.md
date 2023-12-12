@@ -18,6 +18,11 @@
 This project is for the development of the **DAO Git (Hosting Platform) Survey 2023** from the *GitOps* initiative of the *Data Admin* pillar.
 
 
+## Report
+
+View the Survey Report [here](https://public.flourish.studio/story/2010897/).
+
+
 ## Environment
 
 - Google Forms: survey
